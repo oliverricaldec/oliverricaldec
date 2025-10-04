@@ -41,7 +41,7 @@
 
 ### 🧰 Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,javascript,react,git,github,powerbi,gcp" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,javascript,react,git,github,gcp" />
 </p>
 
 ---
