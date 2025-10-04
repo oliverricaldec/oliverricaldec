@@ -83,7 +83,7 @@ Early-stage project for automating data collection using **n8n** and **Google Cl
 ---
 
 <p align="center">
-  <a href="https://github.com/PurpleMaltese">
+  <a href="https://github.com/oliverricaldec">
     <img src="https://img.shields.io/badge/GitHub-PurpleMaltese-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
