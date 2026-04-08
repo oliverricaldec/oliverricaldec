@@ -14,14 +14,14 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a **Software Engineering student (8th cycle)** at *Universidad Tecnológica del Perú*  
+- 🎓 I'm a **Software Engineering student (9th cycle)** at *Universidad Tecnológica del Perú*  
 - ☕ Focused on **Backend Development** using **Java** and **Spring Boot**  
 - 🧩 Experience creating **CRUD systems**, **desktop applications**, and applying the **MVC architecture pattern**  
 - 🧠 Solid understanding of **Object-Oriented Programming (OOP)** and software architecture principles  
 - 📊 Currently learning **Power BI** for data analysis and visualization  
 - ⚙️ Exploring **process automation** with **n8n**, integrating APIs and Google services  
 - ☁️ Taking first steps into **Google Cloud Platform (GCP)** for backend automation and deployment  
-- 🇬🇧 English level: **C1 (Advanced 2)** — currently studying at *Británico*  
+- 🇬🇧 English level: **C1**  
 - 📫 Reach me at: **oliverricaldec@gmail.com**  
 - ⚡ *Fun fact:* Music fuels creativity, coffee powers logic 🎵☕
 
